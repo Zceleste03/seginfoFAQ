@@ -1,4 +1,4 @@
-*Nota: Actualmente se encuentra en construcción.*
+Hola buenas tardes
 
 ## Tabla de contenidos
 1. [Acerca del FAQ](#acerca)  
